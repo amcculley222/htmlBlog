@@ -1,0 +1,77 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 24;
+  color: gray;
+  text-decoration: underline;
+  margin-top: 0;
+  margin-right: 20;
+  margin-left: 20;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 24;
+  color: red;
+  margin-top: 10;
+  margin-right: 20;
+  margin-left: 20;
+}
+
+.name {
+  color: Red;
+  font-size: 64;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.subname {
+  color: black;
+  font-size: 28;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.date {
+  color: gray;
+}
+
+.title {
+  color: black;
+  font-size: xx-large;
+}
+
+.blog {
+  display: flex;
+  flex-direction: row;
+}
+
+.letter {
+  padding-right: 8;
+
+  color: gray;
+  font-size: 60;
+}
+
+.text {
+  color: rgb(67, 67, 67);
+  font-size: 24;
+  line-height: 1.6;
+  float: left;
+  padding: 0 20px 20px 0;
+}
+
+.contines {
+  color: red;
+  display: flex;
+  justify-content: right;
+  padding-right: 60;
+  align-items: flex-end;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
